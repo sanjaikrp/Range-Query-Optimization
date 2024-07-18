@@ -25,11 +25,11 @@ The Range-Query Optimization Project focuses on optimizing range queries in data
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/sanjaikrp/range-query-optimization.git
+    git clone https://github.com/sanjaikrp/Range-Query-Optimization.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd range-query-optimization
+    cd Range-Query-Optimization
     ```
 3. Install the dependencies:
     ```sh
